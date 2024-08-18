@@ -92,7 +92,7 @@ I'm a passionate software engineer specializing in full-stack web development, w
 
 ---
 
-### **Fun Fact:** When I’m not coding, you’ll find me display:none or animation-name:practicing drumming 🥁.
+### **Fun Fact:** When I’m not coding, you’ll find me display:none or animation-name:drumming 🥁.
 
 ---
 
